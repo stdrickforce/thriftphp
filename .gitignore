@@ -1,0 +1,13 @@
+# IDE
+.deps
+.idea
+
+# cmake
+cmake/
+cmake-build-debug/
+
+# log
+*.log
+
+# others
+*.idx.h
